@@ -2,10 +2,8 @@
 **Category**: crypto
 
 **Problem**:
-```
-Solve this: YAHORAUCLWRLAYENPNTTGMOEOCS. 
-Flag is not in XCTF{} format, please submit in XCTF{plaintext}.
-```
+> Solve this: YAHORAUCLWRLAYENPNTTGMOEOCS. 
+> Flag is not in XCTF{} format, please submit in XCTF{plaintext}.
 
 ## Solution
 The data is arranged in 9 rows and 3 columns. So all you have to do is split them 3 characters at a time. (Thanks Darren)
