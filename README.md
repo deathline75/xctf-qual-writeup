@@ -13,6 +13,31 @@ I will be only doing writeups for the questions that I have solved or have helpe
 * Chua Ming Kiang
 * Neo Ken Hong, Kelvin
 
+**Points Attained**: 162
+
+## Writeups
+- [ ] sanity-re - 1
+- [ ] sanity-pwn - 1
+- [x] sanity-forensics - 1
+- [ ] sanity-crypto - 1
+- [x] 9x3 - 2
+- [ ] Language 1 - 3
+- [ ] rot - 3
+- [ ] ReverseIt - 5
+- [ ] neutron_star_collision - 5
+- [ ] xuehui - 5
+- [ ] MacroManage - 10
+- [ ] Invisible - 10
+- [ ] 0ldT3ch - 10
+- [ ] Artist - 10
+- [ ] dumpdiving - 10
+- [ ] Language2 - 10
+- [ ] ~~heap_simulator2000 - 10~~
+- [ ] nandynarwhals - 10
+- [ ] RetroTech - 15
+- [ ] ~~neatlypacked - 20~~
+- [ ] CryptoSecrecy - 20
+
 ## Other Information
 
 中文版：
