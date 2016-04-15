@@ -21,8 +21,8 @@ I will be only doing writeups for the questions that I have solved or have helpe
 - [x] sanity-forensics - 1
 - [ ] sanity-crypto - 1
 - [x] 9x3 - 2
-- [ ] Language 1 - 3
-- [ ] rot - 3
+- [ ] ~~Language 1 - 3~~
+- [x] rot - 3
 - [ ] ReverseIt - 5
 - [ ] neutron_star_collision - 5
 - [ ] xuehui - 5
@@ -38,6 +38,9 @@ I will be only doing writeups for the questions that I have solved or have helpe
 - [ ] ~~neatlypacked - 20~~
 - [ ] CryptoSecrecy - 20
 
+Striked writeups means I will not be doing them as my teammates will have done them.
+
 ## Other Information
 
+Qiurong's writeup: http://www.jackqr.me/
 中文版：
