@@ -43,4 +43,5 @@ Striked writeups means I will not be doing them as my teammates will have done t
 ## Other Information
 
 Qiurong's writeup: http://www.jackqr.me/
+
 中文版：

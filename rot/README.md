@@ -6,6 +6,7 @@
 
 ## Solution
 When the webpage first opens, it gives you a View Source link, along with ID and PW. However, it seems there are no fields for both of them.
+
 ![Webpage](webpage.png)
 
 Thankfully, there is a page for source code, so we opened up the page for source code and this is the code:
@@ -75,9 +76,11 @@ print to_encode
 ```
 
 Then I used a chrome extension called EditThisCookie to add 2 new cookies called user and password on the main page:
+
 ![EditThisCookie](editthiscookie.png)
 
 Then just refresh the page and you will get your flag!
+
 ![Flag](flag.png)
 
 The flag: XCTF{Haha_this_has_nothing_2_do_with_tor}
