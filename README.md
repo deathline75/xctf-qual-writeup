@@ -16,7 +16,7 @@ I will be only doing writeups for the questions that I have solved or have helpe
 **Points Attained**: 162
 
 ## Writeups
-- [ ] sanity-re - 1
+- [ ] ~~sanity-re - 1~~
 - [ ] sanity-pwn - 1
 - [x] sanity-forensics - 1
 - [ ] sanity-crypto - 1
